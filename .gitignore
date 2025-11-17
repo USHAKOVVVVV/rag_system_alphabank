@@ -1,1 +1,7 @@
 env
+alpha_env
+rag_env
+output_data
+texts_for_deepseek.txt
+triplets.json
+texts.csv
